@@ -1,0 +1,28 @@
+.container {
+
+    display: flex;
+    height: 89vh;
+}
+
+
+
+.droite {
+
+    min-width: 80%;
+    height: 100%;
+
+}
+
+.boutonpanier {
+
+    margin-top: 30px;
+    margin-right: 20px;
+
+
+}
+
+.gauche div {
+
+    display: flex;
+    justify-content: flex-end;
+}
